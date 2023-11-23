@@ -1,0 +1,6 @@
+debug
+open
+elev.fyristeknik.se
+kandeel.fyristeknik.se
+Mice*0Fuss
+dir
